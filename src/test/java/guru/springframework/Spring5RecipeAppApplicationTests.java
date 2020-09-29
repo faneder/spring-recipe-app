@@ -13,7 +13,7 @@ public class Spring5RecipeAppApplicationTests {
 
 	@Test
 	public void contextLoads() {
-		assertEquals("2", "2");
+		assertEquals(2, 1);
 	}
 
 }
