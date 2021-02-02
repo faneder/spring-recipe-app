@@ -1,0 +1,9 @@
+{
+    vehiclesByArn(arn: "%s") {
+        mileage {
+            latest {
+                mileage
+            }
+        }
+    }
+}
