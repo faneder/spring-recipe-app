@@ -1,4 +1,4 @@
-package guru.springframework;
+package guru.springframework.datastructureandalgorithms.fundamentalDataStructures;
 
 public class GameEntry {
     private String name;
